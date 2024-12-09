@@ -1,0 +1,22 @@
+{
+    "log-level":        "error",
+    "insecure-registries" : ["https://docker.arvancloud.ir"],
+    "registry-mirrors": [
+				"http://docker.bardia.tech:8080",
+	    			"https://docker.iranrepo.ir",
+				"https://docker.iranserver.com",
+				"https://docker.host:5000",
+				"http://docker.bardia.tech:8080",
+	    			"https://registry.docker.ir",
+				"https://docker-registry.ir",
+				"https://docker.dockerme.ir",
+				"https://docker.ir",
+				"https://docker.arvancloud.ir"
+    			],
+	"dns-opts" : [
+		"185.55.225.25",
+	       	"185.55.226.26",
+       		"178.22.122.100",
+	       	"185.51.200.2"
+		]
+}
